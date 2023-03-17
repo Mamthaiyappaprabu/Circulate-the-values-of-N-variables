@@ -44,6 +44,6 @@ def circulate():
     print("After circulating the values are:",result)
 
 ## Output:
-![model](int.png)
+![model](out.png)
 ## Result:
 Thus the circulating of values are successfully executed
